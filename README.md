@@ -5,7 +5,7 @@
 🤝 I'm looking to collaborate on: Projects that involve full-stack development, front-end, back-end,  especially those with a focus on web applications and IoT.<br>
 🌱 I'm currently learning: AI and machine learning.<br>
 🤔 Ask me: about Full-stack development, IoT, and project management.<br>
-💡 Fun fact: I have experience developing a face recognition attendance system, a full-stack web application for complex HVAC and air-conditioning calculations, and an IoT-based air purifier dashboard. I've also worked on a Fixtime application for connecting technicians with customers and an AI system for predicting soil quality
+💡 Fun fact: I have experience developing a face recognition attendance system, a full-stack web application for complex HVAC and air-conditioning calculations, and an IoT-based air purifier dashboard. I've also worked on a Fixtime application for connecting technicians with customers and an AI system for predicting soil quality and more in my experience.
 🎉🎉<br>
 ###
 <br clear="both">
