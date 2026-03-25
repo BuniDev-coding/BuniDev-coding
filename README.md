@@ -29,7 +29,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuniDev-coding&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BuniDev-coding)]
 
 
 
