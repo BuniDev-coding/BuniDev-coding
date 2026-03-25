@@ -31,9 +31,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BuniDev-coding&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuniDev-coding)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuniDev-coding&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuniDev-coding&layout=compact&color=0)
 
 [![](https://visitcount.itsvg.in/api?id=BuniDev-coding&icon=1&color=0)](https://visitcount.itsvg.in)
