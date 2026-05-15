@@ -13,7 +13,7 @@
 ###
 <br clear="both">
 
-<img align="left" height="150" src="[https://media.tenor.com/D--yGsQy2EsAAAAM/crying-girl-anime.gif](https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif)"  />
+<img align="left" height="150" src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif"  />
 
 ###
 
