@@ -13,7 +13,7 @@
 ###
 <br clear="both">
 
-<img align="left" height="150" src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif"  /> <img align="left" height="150" src="https://i.redd.it/e6r1w1znpyzb1.gif"  />
+<img align="left" height="150" src="https://media.tenor.com/yPo2skMTTh4AAAAM/furina-silly.gif"  /> <img align="left" height="150" src="https://i.redd.it/e6r1w1znpyzb1.gif"  /> <img align="left" height="150" src="https://upload-os-bbs.hoyolab.com/upload/2024/11/10/238489860/48ccd6c8aa60d1042fa5f26a48bf7467_3483842344688688989.gif"  />
 
 
 ###
