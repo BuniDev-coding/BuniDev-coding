@@ -1,15 +1,11 @@
 #  Hi !! 🎉 I'm BuniDev-Coding(Phonlawat) 🎉
+💻 AI Engineer Full-stack & Backend Developer passionate about building scalable systems, AI-integrated platforms, and IoT solutions.
 
 # 💫 About Me:
-
-🌱 I'm currently learning: AI and machine learning.<br>
-
-🔭 I'm currently working on: Developing a full-stack web application using React, JavaScript, TypeScript, and Python FastAPI.<br>
-🤝 I'm looking to collaborate on: Projects that involve full-stack development, front-end, back-end,  especially those with a focus on web applications and IoT.<br>
-
-🤔 Ask me: about Full-stack development, IoT, and project management.<br>
-💡 Fun fact: I have experience developing a face recognition attendance system, a full-stack web application for complex HVAC and air-conditioning calculations, and an IoT-based air purifier dashboard. I've also worked on a Fixtime application for connecting technicians with customers and an AI system for predicting soil quality and more in my experience.
-🎉🎉<br>
+🌱 Currently learning: AI, Machine Learning, and LLM Engineering<br>
+🔭 Currently working on: Full-stack applications using React, TypeScript, Go, and Python FastAPI<br>
+🤝 Looking to collaborate on: Full-stack, Backend, AI, and IoT projects<br>
+⚡ Interested in: System Architecture, Microservices, Real-time Systems, and AI Automation<br>
 ###
 <br clear="both">
 
